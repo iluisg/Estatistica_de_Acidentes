@@ -1,0 +1,10 @@
+18;Santos;697
+37;São Paulo;697
+45;São Roque;613
+13;São Gonçalo;193
+191;São José do Rio Preto;132
+50;São José do Rio Pardo;214
+98;São Luiz;93
+118;Itariri;177
+139;Promissão;167
+1;Santana do Parnaíba;526
